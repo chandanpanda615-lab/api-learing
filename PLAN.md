@@ -183,6 +183,7 @@ it once Days 1–3 are ticked off.
 | Day 2 (Git init + history) | [ ] not started |
 | Day 3 (Explain HTTP/JSON/pagination) | [ ] not started |
 | Real risk open | ⚠️ live token still in `Jobs.py` and `test_api.py` — fix Day 1 |
+| Side task (2026-10-09) | Used the Apify REST API (POST run → dataset items) to scrape phones ≤ ₹15k from Flipkart + JioMart. Apify token was pasted in chat → **rotate it** in Apify Console (Day 1 lesson, live example) |
 
 ---
 
